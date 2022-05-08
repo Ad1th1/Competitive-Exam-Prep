@@ -49,6 +49,7 @@
                 Arrays, stacks, queues,
                 linked lists, trees, binary search trees, binary heaps,
                 graphs.
+                
         5. Algorithms : 
                 Searching, sorting, hashing.
                 Asymptotic worst case time and space complexity.
@@ -60,11 +61,13 @@
                 Context-free grammars and push-down automata.
                 Regular and context-free languages, pumping lemma.
                 Turing machines and undecidability.
+                
         7. Compiler Design :
                 Lexical analysis,
                 parsing, syntax-directed translation.
                 Runtime environments. Intermediate code generation. Local optimisation,
                 Data flow analyses: constant propagation, liveness analysis, common subexpression elimination.
+                
         8. Operating System :
                 System calls, processes, threads,
                 inter-process communication, concurrency and synchronization.
@@ -72,6 +75,7 @@
                 CPU and I/O scheduling.
                 Memory management and virtual memory.
                 File systems.
+                
         9. Databases :
                 ER-model.
                 Relational model: relational algebra, tuple calculus,
@@ -79,6 +83,7 @@
                 Integrity constraints, normal forms.
                 File organization, indexing (e.g., B and B+ trees).
                 Transactions and concurrency control.
+                
         10. Computer Networks :
                 Concept of layering: OSI and TCP/IP Protocol Stacks;
                 Basics of packet, circuit and virtual circuit switching;
