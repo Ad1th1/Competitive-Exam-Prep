@@ -1,0 +1,16 @@
+-> Unix = base of all OS's
+    -> developed in 1970 by Dennis Retchie, Ken Thompson at AT&T Laboratories
+    -> meant for programmers developing software
+    -> Unix and C = founded by AT&T
+    -> Kernel
+    
+    
+System Structure of Linux:
+    Layer 1: Hardware
+    Layer 2: Kernel = interacts with hardware and tasks like memory management, task scheduling, and management
+    Layer 3: Shell Commands = utility that processes requests.
+      -> shell interprets commands and calls programs that we want
+    Layer 4: outermost layer that executes external applications
+    
+    
+    
