@@ -1,0 +1,12 @@
+- m linear equations in n variables
+  > have a solution when m = n\
+  > if m > n, infinite solutions
+  > if m < n, no solutions
+  
+- Eigen values (L36 Math 1)
+  > latent roots
+  > sum of eigen values of matrix A = sum of elements of principal diagonal
+  > x is an eigen value of matrix A, (1/x) is an Eigen value of inverse of A
+  > |A| = roduct of eigen values
+  
+  
