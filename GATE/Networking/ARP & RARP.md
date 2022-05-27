@@ -1,11 +1,11 @@
 # ARP
-  > Intro
-    - Address Resolution Protocol
-    - maps IP address into physical(MAC) addresses
-    - helps exchange MAC addresses
-    - MAC address = 48 bits in hex= usually not changed
-    - port address -> IP address -> MAC address
-    - resolves IPv4 addresses to MAC addresses
+  > Intro\
+    - Address Resolution Protocol\
+    - maps IP address into physical(MAC) addresses\
+    - helps exchange MAC addresses\
+    - MAC address = 48 bits in hex= usually not changed\
+    - port address -> IP address -> MAC address\
+    - resolves IPv4 addresses to MAC addresses\
     - maintains a table of mapping
   
   > Working
