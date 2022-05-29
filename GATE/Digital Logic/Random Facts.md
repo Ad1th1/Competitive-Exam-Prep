@@ -1,0 +1,1 @@
+- The Boolean expression X+X' Y equals X+Y.
