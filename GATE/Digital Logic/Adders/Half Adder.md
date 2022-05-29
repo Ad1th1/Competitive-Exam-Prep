@@ -7,5 +7,5 @@
 > 1 0 1  0\
 > 1 1 1  1 
 
-> S = A xor B
+> S = A xor B\
 > C = AB
