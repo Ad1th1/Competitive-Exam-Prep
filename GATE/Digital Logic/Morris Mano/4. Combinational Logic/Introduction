@@ -1,0 +1,5 @@
+- Logic circuits may be combinational or sequential(feedback)
+- n input => 2^n output 
+- inverter to complement if only single input wire is available
+- binary cells used in most digital systems = flip-flops
+
