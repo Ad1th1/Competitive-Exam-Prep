@@ -1,0 +1,12 @@
+ - OS'es vary greatly in their internal make up
+
+- Commonalities in OS:
+  > - multiprogramming
+  > - multitasking
+
+- Multiprogramming: 
+  > - a single user cannot keep CPU or I/O devices busy at all times
+  > - increases CPU utilization by organizing jobs(code and data) so that the CPU always has one to execute
+  
+  
+
