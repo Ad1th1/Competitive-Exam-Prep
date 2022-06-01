@@ -1,0 +1,23 @@
+- Transport Layer PDU = TCP/UDP + port numbers = SEGMENTS
+- Port numbers are of 16 bits: 0 - 65535
+- well known ports: 0 - 1023
+- registered ports: 1024 - 49151
+- dynamic or private ports: 49152 - 65535
+- Eg: HTTP = 80
+
+- Network Layer =  PACKET = PDU is appended = IP address -> can be IPv4(32 bits in decimal) or IPv6 (128 bits -> hexadecimal)
+- either user provides IP address or DNS resolves names into IP addresses
+
+- Data link layer deals with frames -> MAC addresses = 48 bits / hexa = assigned by manufacturers = usually not changed
+
+- destination MAC address is found using ARP protocol. ARP is mapped to IP address
+
+- port address
+- finding MAC address corresponding to an IP address
+
+- Functions of ARP protocol:
+  - resolve IPv4 addresses to MAC addresses
+  - maintain a table of mappings
+  
+
+
