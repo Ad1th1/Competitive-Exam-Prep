@@ -8,10 +8,10 @@
 - to ensure orderly access to shared memory, a memory controller is provided, whose function is to synchronize access to the memory
 
 - Bootstrap Program: 
- > initial program that runs when a computer is powered up / rebooted\
- > stored in ROM\
- > must know how to load OS and start executing the system\
- > must locate and load OS kernel into memory
+ > - initial program that runs when a computer is powered up / rebooted\
+ > - stored in ROM\
+ > - must know how to load OS and start executing the system\
+ > - must locate and load OS kernel into memory
 
 - Interrupt:
   > 
