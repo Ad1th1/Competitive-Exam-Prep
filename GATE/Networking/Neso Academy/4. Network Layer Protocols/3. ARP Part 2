@@ -1,0 +1,8 @@
+- ARP = Maps IP addresses to physical addresses
+- table of IP to physical address bindings
+- ARP request broadcasted to all devices -> contains destination IP address 
+- ARP reply -> unicast -> MAC address sent back to source
+- MAC address is added to cache
+
+
+
