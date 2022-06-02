@@ -1,0 +1,13 @@
+- IP addresses = Internet Protocol
+- IPv4 address = 32 bits
+- 2 devices on the Internet can't have the same address at the same time
+- address space of IPv4 = 2^32 = > 4 billion
+
+2 Notations for IPv4 addresses:
+- binary 
+- dotted decimal
+
+Valid IP addreses:
+- 4 octets
+- each octet has a value from 0-255
+
