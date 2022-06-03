@@ -1,0 +1,6 @@
+- File System -> 3 parts 
+  - File System Interface = user and programmer interface to the file system
+  - File System Implementation = internal data structure and algorithms used by the OS to implement the above interface
+  - Mass Storage Structure = Secondary and Tertiary storage structure = lowest levels of file system
+  
+  
